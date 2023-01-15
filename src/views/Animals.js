@@ -6,7 +6,7 @@ const Animals = () => {
       <h1>Animals</h1>
       <p>Here you can find information about different animals.</p>
       <img
-        src={require('./scwheatonterrier.jpg')}
+        src={require('./assets/scwheatonterrier.jpg')}
         alt="Animals"
         width="300"
         height="200"
